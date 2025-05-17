@@ -3,6 +3,7 @@
 # AIM:
 To draw the UML diagram for ATM and Banking System.
 # SRS (Procedure):
+```
 List of Programs:
 i) Usecase Diagram
 ii)Class Diagram
@@ -10,6 +11,7 @@ iii)Activity Diagram
 iv)Communication Diagram
 v)Package Diagram
 vi)Sequence Diagram
+```
 # DIAGRAMS:
 # Use case diagram:
 ![image](https://github.com/user-attachments/assets/76bc4324-151e-4186-8eed-f29912237572)
